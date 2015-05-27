@@ -16,3 +16,5 @@ Alfred2Workflows
     GitHubSearcher is a tool to search repositories on GitHub and show the results in Alfred.
 
     The information contains Repository Full Name, Main Language and Description.
+
+    PS: The link of GitHub search page is at the bottom of the result list.
