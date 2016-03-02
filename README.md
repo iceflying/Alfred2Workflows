@@ -18,3 +18,9 @@ Alfred2Workflows
     The information contains Repository Full Name, Main Language and Description.
 
     PS: The link of GitHub search page is at the bottom of the result list.
+
+- Password Generator
+
+    Password Generator can generate random passowrd. The length of password is given as parameter in Alfred or 15 as default.
+    
+    Press enter will copy the generated password into clipboard and automatically paste to front most app.
